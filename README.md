@@ -4,4 +4,6 @@ This workshop was taught by NUS Hackers in 2012. This workshop is a basic introd
 
 Participants are required to download and use the following pieces of software: Google Chrome, Sublime Text 2, Github for Windows, Git (OSX).
 
+http://school.nushackers.org/materials/gitjquery/
+
 
